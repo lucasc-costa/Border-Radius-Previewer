@@ -5,13 +5,13 @@
 
 ## :scroll: Índice
 
-* [Título e Imagem de capa](Border-Radius-Previewer)
-* [Índice](Índice)
-* [Descrição do Projeto](descrição-do-projeto)
-* [Funcionalidades](funcionalidades-do-projeto)
-* [Como rodar a aplicação](Como-rodar-a-aplicação)
-* [Tecnologias utilizadas](tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](Autores)
+* [Título e Imagem de capa](#border-radius-previewer)
+* [Índice](#scroll-índice)
+* [Descrição do Projeto](#computer-descrição-do-projeto)
+* [Funcionalidades](#wrench-funcionalidades-do-projeto)
+* [Como rodar a aplicação](#clipboard-como-rodar-a-aplicação)
+* [Tecnologias utilizadas](#heavy_check_mark-tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pencil2-autores)
 
 ## :computer: Descrição do Projeto
 
